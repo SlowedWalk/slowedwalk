@@ -31,7 +31,7 @@
 - ⚡ I have a blog at https://slowedwalk.github.io/hidetora where I try to post as frequently as I can (crossposting to [dev.to](https://dev.to/)). Everything I post is tech related and about things I find interesting to explain or to make others know about it.
 
 ## Some of my Personal projects
-![hidetora's image social media](https://github-readme-stats.vercel.app/api?username=piraces&show_icons=true)
+![hidetora's image social media](https://shareme-237.netlify.app)
 
 ⭐️ From [hidetora](https://github.com/SlowedWalk)
 
