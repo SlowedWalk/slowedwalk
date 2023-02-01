@@ -76,10 +76,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://slowedwalk.github.io/hidetora/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:idetoratojo1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-idetoratojo1@gmail.com?style=flat-square&logo=gmail"></a>
+<a href="https://slowedwalk.github.io/hidetora/"><img alt="Website" src="https://img.shields.io/badge/Website-https://slowedwalk.github.io/hidetora/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mekeng--a--afaka-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:idetoratojo1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/E--mail-idetoratojo1%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [SlowedWalk(aka Hidetora)](https://github.com/SlowedWalk)
