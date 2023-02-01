@@ -40,9 +40,9 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=#79b563)
-  ![Nest.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)
 - 🌐 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angualr-333333?style=flat&logo=javascript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
