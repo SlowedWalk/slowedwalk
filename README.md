@@ -40,17 +40,17 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ffffff)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=#79b563)
-  ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nest.js)
+  ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
 - 🌐 &nbsp;
-  ![Angular](https://img.shields.io/badge/-Angualr-333333?style=flat&logo=javascript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -58,7 +58,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JetBrain IDEs](https://img.shields.io/badge/JetBrain--IDE-licenced-blue)
+  ![JetBrains](https://img.shields.io/badge/JetBrains--IDE-licenced-blue?style=flat&logo=jetbrains&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
