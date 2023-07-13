@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm SlowedWalk (Aka Hidetora)
-[![Linkedin Badge](https://img.shields.io/badge/-Raúl%20Piracés%20Alastuey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)](https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mekeng%20Afaka%20Hugues%20Benjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)](https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)
 [![Twitter Badge](https://img.shields.io/badge/-@piraces_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piraces_)](https://twitter.com/piraces_)
 <!-- [![ThePracticalDev Badge](https://img.shields.io/badge/-@piraces-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/piraces/)](https://dev.to/piraces) -->
 [![StackOverflow Badge](https://img.shields.io/badge/-piraces-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/4064162/piraces)](https://stackoverflow.com/users/4064162/piraces)
