@@ -1,11 +1,6 @@
 # Hey there! 👋 I'm SlowedWalk (Aka Hidetora)
 [![Linkedin Badge](https://img.shields.io/badge/-Mekeng%20Afaka%20Hugues%20Benjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)](https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)
-[![Twitter Badge](https://img.shields.io/badge/-@piraces_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/piraces_)](https://twitter.com/piraces_)
-<!-- [![ThePracticalDev Badge](https://img.shields.io/badge/-@piraces-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/piraces/)](https://dev.to/piraces) -->
-[![StackOverflow Badge](https://img.shields.io/badge/-piraces-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/4064162/piraces)](https://stackoverflow.com/users/4064162/piraces)
 [![Mail Badge](https://img.shields.io/badge/-idetoratojo1@Gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:idetoratojo1@Gmail.com)](mailto:idetoratojo1@Gmail.com)
-[![Keybase Badge](https://img.shields.io/badge/-piraces-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/piraces)](https://keybase.io/piraces)
-<a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
 <a href="https://app.daily.dev/hidetora"><img src="https://api.daily.dev/devcards/v2/uNMDgq3HhS9OYk9NsQCCt.png?type=default&r=e42" width="356" alt="Hidetora Tojo's Dev Card"/></a>
 
