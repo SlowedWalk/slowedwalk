@@ -7,6 +7,7 @@
 [![Keybase Badge](https://img.shields.io/badge/-piraces-33A0FF?style=flat-square&logo=Keybase&logoColor=white&link=https://keybase.io/piraces)](https://keybase.io/piraces)
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
+<a href="https://app.daily.dev/hidetora"><img src="https://api.daily.dev/devcards/v2/uNMDgq3HhS9OYk9NsQCCt.png?type=default&r=e42" width="356" alt="Hidetora Tojo's Dev Card"/></a>
 
 - 🔭 I'm a Software Engineer 👨‍💻🎧 & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
 
