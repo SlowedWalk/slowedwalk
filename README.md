@@ -2,8 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mekeng%20Afaka%20Hugues%20Benjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)](https://www.linkedin.com/in/mekeng-a-afaka-7b0923200/)
 [![Mail Badge](https://img.shields.io/badge/-idetoratojo1@Gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:idetoratojo1@Gmail.com)](mailto:idetoratojo1@Gmail.com)
 
-<a href="https://app.daily.dev/hidetora"><img src="https://api.daily.dev/devcards/v2/uNMDgq3HhS9OYk9NsQCCt.png?type=default&r=e42" width="356" alt="Hidetora Tojo's Dev Card"/></a>
-
 - 🔭 I'm a Software Engineer 👨‍💻🎧 & Full Stack developer who is passionate about Web Development, Cloud computing architecture, and open source.
 
 - 🌱 I'm constantly learning new languages and creating my own personal projects. Also, I really enjoy attending tech related events.
